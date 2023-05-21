@@ -1,6 +1,5 @@
 export default function Menu() {
     const menu = {
-        backgroundColor: "#ffd000",
         padding: "2%",
     }
     return (

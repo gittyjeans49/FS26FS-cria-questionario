@@ -14,13 +14,15 @@ export default function Perfil() {
     };
     const perf = {
         overflow: "hidden",
-        width: "50%",
+        width: "60%",
         backgroundColor: "#ffd000",
         margin: "auto",
         textAlign: "center",
         alignItems: "center",
         borderRadius: "10px",
         padding: "2%",
+        paddingTop: "3%",
+        paddingBottom: "3%",
         fontSize: "20px",
     };
     const but = {
