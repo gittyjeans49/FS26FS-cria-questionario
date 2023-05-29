@@ -8,7 +8,7 @@ export default function Perfil() {
     const body = {
         backgroundColor: "#ffffff",
         height: "70%",
-        width: "85%",
+        width: "80%",
         margin: "auto",
         padding: "2%",
     };
