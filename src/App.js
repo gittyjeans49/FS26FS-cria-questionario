@@ -1,8 +1,10 @@
 import './App.css';
 import Perfil from './views/perfil/index.js';
+import Login from './views/login/index.js';
+import Questionario from './views/questionario/index.js';
 
 function App() {
-  return Perfil();
+  return Questionario();
 }
 
 export default App;
