@@ -4,7 +4,7 @@ import Login from './views/login/index.js';
 import Questionario from './views/questionario/index.js';
 
 function App() {
-  return Questionario();
+  return Login();
 }
 
 export default App;
