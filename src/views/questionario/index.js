@@ -2,7 +2,7 @@ import Menu from "../../components/menu";
 
 export default function Questionario() {
     const page = {
-        backgroundColor: "#ffd000",
+        backgroundColor: "#ffe469",
         height: "100vh",
     };
     const body = {

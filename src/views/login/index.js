@@ -1,6 +1,6 @@
 export default function Login() {
     const page = {
-        backgroundColor: "#ffd000",
+        backgroundColor: "#ffe469",
         height: "100vh",
         paddingTop: "5%",
     };
